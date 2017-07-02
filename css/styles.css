@@ -1,0 +1,55 @@
+/* This is comment */
+/*li{
+  color: blue;
+}
+
+h1,{color: green;
+}
+h3,{
+  color: red;
+}
+*/
+/*.redcolor{color: red;}
+.greencolor{color: green;}
+.yellowcolor{color: yellow;}
+*/
+#welcome{
+  color: green;
+  font-size: 50px;
+text-align:center; background-color: pink; 
+}
+
+#tagline{
+  color: orange;
+  font-weight: bold; text-align:center;
+}
+
+.redcolor{
+  color: red;
+}
+
+.greencolor{
+  color: green;
+}
+.yellowcolor{color: yellow;}
+
+p {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.img-width {
+  width: 100%;
+}
+.mt-1 {
+  margin-top: 1 !important;
+}
+.mb-1 {
+  margin-bottom: 1 !important;
+}
+.ml-1 {
+  margin-left: 1 !important;
+}
+.mr-1 {
+  margin-right: 1 !important;
+}
